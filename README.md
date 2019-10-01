@@ -7,17 +7,17 @@ La idea inicial era crear una app sencilla que permita buscar albums y ver las f
 ## Tecnología
 Este proyecto en general se utilizan diferentes librerías OpenSource para trabajar correctamente:
 
-Gson - Es una libreria que permite mappear los valores que devuelve el api.
+[Gson](https://github.com/google/gson) - Es una libreria que permite mappear los valores que devuelve el api.
 
-Retrofit - Es una librería que permite la conexión entre el api y la app.
+[Retrofit](https://square.github.io/retrofit/) - Es una librería que permite la conexión entre el api y la app.
 
-Glide - Es una librería que permite mostrar las imagenes.
+[Glide](https://github.com/bumptech/glide) - Es una librería que permite mostrar las imagenes.
 
-ButterKnife - Es una librería que permite la injectar las vistas de una forma mas limpia.
+[ButterKnife](https://jakewharton.github.io/butterknife/) - Es una librería que permite la injectar las vistas de una forma mas limpia.
 
-SpinKit - Es una librería que provee animaciones de loading.
+[SpinKit](https://github.com/ybq/Android-SpinKit) - Es una librería que provee animaciones de loading.
 
-Mockito - Es una librería utilizada para los test unitarios.
+[Mockito](https://github.com/mockito/mockito) - Es una librería utilizada para los test unitarios.
 
 ## Arquitectura
 En esta app se utilizo el patron MVP (Model - View - Presenter).
