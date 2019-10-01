@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Link</string>
+    <string name="act_main_search_lbl">Search…</string>
+    <string name="search_error_lbl">Sorry we couldn\'t find any matches</string>
+    <string name="server_error_lbl">Ups… Something went wrong, please try again.</string>
+    <string name="empty_lbl">Sorry we couldn\'t find anything, please try again</string>
+    <string name="view_id_format">#%1$d </string>
+
+</resources>
